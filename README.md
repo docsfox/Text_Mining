@@ -1,4 +1,4 @@
-# Text_Mining
+# Intro to Text_Mining
 Saved code and functions for IS 5150 - Intro to Text Mining
 These notebooks are covered during the in-class portion of Intro to Text Mining, but can be accessed as additional resources going forward in the class, or as you see fit.
 
